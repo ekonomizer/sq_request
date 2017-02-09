@@ -1,0 +1,22 @@
+{
+  "name": "sq_request",
+  "version": "0.0.1",
+  "description": "Util for send post and signed get request.",
+  "main": "Request.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "http": "*",
+    "https": "*",
+    "querystring": "*"
+  }
+  "keywords": [
+    "request",
+    "post",
+    "signed",
+    "get"
+  ],
+  "author": "",
+  "license": "MIT"
+}
