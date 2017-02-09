@@ -50,7 +50,7 @@ request.sendSignedGet(host, path, sig, params)
 ```
 For see all of your binds use:
 ```
-request.binds
+request.binds // return object
 ```
 ## License
 The JavaScript module sq_request is released under the MIT license.
