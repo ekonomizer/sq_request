@@ -14,7 +14,7 @@ request.sendPost(host, path, params, port, json, useHttps);
 //return Promise (resolve = result, reject = error)
 ```
 ## Requirements
-A javascript module sq_request need http, https, querystring modules.
+A javascript module sq_request has zero dependencies.
 ## API
 You can init logs for your request. First param for debug message, second for error message.
 ```
