@@ -53,4 +53,4 @@ For see all of your binds use:
 request.binds
 ```
 ## License
-The JavaScript MD5 script is released under the MIT license.
+The JavaScript module sq_request is released under the MIT license.
